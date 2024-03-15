@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JiNetMain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afaead21a5cf9a7e255b39351c25ac34268bd9d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c6c925a8d9f2fe87d8907f8b75c24deeef83f98")]
 [assembly: System.Reflection.AssemblyProductAttribute("JiNetMain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JiNetMain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

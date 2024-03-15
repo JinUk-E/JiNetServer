@@ -1,6 +1,6 @@
-namespace JiNet.Define
+namespace JiNet.Preview
 {
-    public class Enums
+    public static class Enums
     {
         public enum UserTokenState
         {
